@@ -27,7 +27,7 @@ string rot(string str, int key){
 
 int main(int argc, string argv[]){
   if(argc != 2){
-    printf("Wrong ussage: program should be run as ceaser <key>, eg: ceaser 10");
+    printf("Wrong usage: program should be run as ceaser <key>, eg: ceaser 10");
     return 1;
   }
 

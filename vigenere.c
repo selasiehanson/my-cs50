@@ -44,7 +44,7 @@ string vigenere_encrypt(string str, string key){
 int main(int argc, string argv[]){
 
   if(argc != 2){
-    printf("Wrong ussage: program should be run as ceaser <key>, eg: vigenere 10\n");
+    printf("Wrong usage: program should be run as ceaser <key>, eg: vigenere 10\n");
     return 1;
   }
 
